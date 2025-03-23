@@ -7,7 +7,7 @@ Welcome to **DockSpace**! 🌊 This repository is my personal harbor of containe
 
 ### 📦 **Containerized Projects on Board:**  
 
-**1. [Docker "Hello World"](https://github.com/divyanshsaxena002/Dockspace/tree/main/Docker%20%22Hello%20World%22) 🐳**  
+**1. [Docker "Hello World"](https://github.com/PriyanshuRai2108/Container/tree/main/Docker%20_Hello%20World_) 🐳**  
    - **Goal:** Kickstart my Docker journey by running the classic "Hello World" container.  
    - **Key Focus:** Understanding basic Docker commands, image execution, and container runtime.  
 
